@@ -1,3 +1,0 @@
-# Feature 1
-
-Description: this is a nice feature
