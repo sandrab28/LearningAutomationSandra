@@ -1,0 +1,3 @@
+# Checkout command
+
+- git checkout <branch_name> - switches to specified branch
