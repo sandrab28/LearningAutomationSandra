@@ -1,0 +1,3 @@
+# Create branch command
+
+- git branch <branch_name> - creates a new branch (locally), without switching to it
