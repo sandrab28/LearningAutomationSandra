@@ -1,0 +1,3 @@
+# Commit all modified files command
+
+- git commit -am "message" - automatically stages all modified files to be committed. If new files are added the -a option will not stage those new files. 
