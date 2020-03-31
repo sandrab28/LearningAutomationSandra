@@ -1,0 +1,3 @@
+# Fetch prune command
+
+- git fetch --prune (or git fetch -p) - after fetching, removes any remote-tracking branches which no longer exist on remote
