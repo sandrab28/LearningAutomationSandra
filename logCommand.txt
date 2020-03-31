@@ -1,0 +1,3 @@
+# Log command
+
+- git log - shows commits history on current branch
