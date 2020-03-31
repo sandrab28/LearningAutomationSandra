@@ -1,0 +1,3 @@
+# Pull commmand
+
+- git pull <remote_name> <branch_name> - updates a local repository from the corresponding remote repository (so data is retrieved, but also directly integrared into the current working files).
