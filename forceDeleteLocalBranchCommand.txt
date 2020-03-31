@@ -1,0 +1,3 @@
+# Force delete local branch command 
+
+- git branch -D <branch_name> - forces the deletion of the branch (even if branch has not been pushed and merged with the remote branches yet)
