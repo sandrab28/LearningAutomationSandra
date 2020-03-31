@@ -1,0 +1,3 @@
+# Hard reset command
+
+- git reset --hard <remote_name>/<branch_name> - resets local branch to match the remote branch 
