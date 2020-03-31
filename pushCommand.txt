@@ -1,0 +1,3 @@
+# Push command
+
+- git push <remote_name> <branch_name> -  send (or push) the commits from your local branch to the remote repository
