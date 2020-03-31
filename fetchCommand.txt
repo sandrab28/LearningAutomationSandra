@@ -1,0 +1,3 @@
+# Fetch command
+
+- git fetch - retrieves all branches and updates from remote repository, without integrating the new data into your working files. When no remote is specified, by default the origin remote will be used, unless there’s an upstream branch configured for the current branch.
