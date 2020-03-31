@@ -1,0 +1,3 @@
+# Delete local branch command
+
+- git branch -d <branch_name> - deletes local branch (only if it has already been pushed and merged with the remote branch)
