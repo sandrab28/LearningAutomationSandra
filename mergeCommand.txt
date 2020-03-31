@@ -1,0 +1,3 @@
+# Merge command
+
+- git merge <branch_name> - merges (joins) the specified branch into the currently active branch
